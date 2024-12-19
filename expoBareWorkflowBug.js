@@ -1,0 +1,1 @@
+This error typically occurs when you try to use an Expo managed workflow feature in a bare workflow project, or vice versa.  Expo managed workflow and bare workflow are fundamentally different ways of building Expo apps, and mixing them leads to conflicts.  The error message itself isn't always very precise, making it hard to track down.
